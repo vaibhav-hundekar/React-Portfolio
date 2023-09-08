@@ -1,5 +1,5 @@
 Open using
-[https://react-portfolio-vaibhav-hundekar.vercel.app/]
+https://react-portfolio-vaibhav-hundekar.vercel.app/
 
 
 # Getting Started with Create React App
